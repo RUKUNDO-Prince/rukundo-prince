@@ -4,7 +4,7 @@
 </em></p>
 
 [![Linkedin: RUKUNDO Prince]https://www.linkedin.com/in/rukundo-prince-142539260/
-![GitHub followers](https://img.shields.io/github/followers/prince_r?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/rukundo-prince?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
