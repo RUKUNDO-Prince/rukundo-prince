@@ -1,4 +1,4 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm RUKUNDO Prince! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Hi There🙏🏻, I'm RUKUNDO Prince! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -55,17 +55,17 @@ const prince = {
 ⌚︎ Timezone: Asia/Calcutta
 
 💬 Languages: 
-JavaScript               6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01% 
-Python                   2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
-PHP                      2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
+JavaScript               6 hrs 40 mins  █████████░░░░░░░░░░░░░░░░   39.01% 
+Python                   2 hrs 57 mins  ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
+PHP                      2 hrs 28 mins  ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
 css                 2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.89% 
-c++                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.87%
+c++                     1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   6.87%
 
 🔥 Editors: 
 vs code                 9 hrs 32 mins       ██████████████░░░░░░░░░░░   55.81% 
-PyCharm                  5 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.71% 
+PyCharm                  5 hrs 4 mins       ███████░░░░░░░░░░░░░░░░░░   29.71% 
 dev c++                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49%
-code blocks                 2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░   9.7%
+code blocks                 2 hrs 28 mins   ██░░░░░░░░░░░░░░░░░░░░░░   9.7%
 
 💻 Operating Systems: 
 Windows                  17 hrs 5 mins       █████████████████████████   100.0%
@@ -73,4 +73,3 @@ Windows                  17 hrs 5 mins       ███████████�
 ```
 <!--END_SECTION:waka-->
 
-**These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
