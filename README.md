@@ -1,7 +1,7 @@
 <h2>Hi There🙏🏻, I'm RUKUNDO Prince! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<!-- <p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p> -->
 
 [![Linkedin: RUKUNDO Prince]https://www.linkedin.com/in/rukundo-prince-142539260/
 ![GitHub followers](https://img.shields.io/github/followers/rukundo-prince?label=Follow&style=social)
