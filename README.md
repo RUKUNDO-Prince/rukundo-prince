@@ -14,22 +14,23 @@
 const prince = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography", "game dev"],
+    askMeAbout: ["web dev", "tech", "app dev", "blogging"],
     technologies: {
-        mobileApp: ["Android App"],
+        mobileApp: ["firebase"],
         frontEnd: {
             js: ["Vue", "Nuxt", "react", "three js", "next js"],
-            css: ["materialize", "vuetify", "bootstrap", "tailwind"]
+            css: ["material ui", "bootstrap", "tailwind", "chakra ui", "daisy ui"]
         },
         backEnd: {
-            js: ["node", "express", "SuiteScript", "typescript"],
-            python: ["flask"]
+            js: ["node", "express", "typescript"],
+            python: ["django"],
+            java: ["springboot"]
         },
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        databases: ["mongo", "MySql", "postgress"],
+        misc: ["Firebase", "Socket.IO", "sanity", "open-cv", "php", "SuiteApp"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
+    currentProject: "I am developing a game finder app",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
@@ -38,7 +39,7 @@ const prince = {
 
 ---
 <!--START_SECTION:waka-->
-**I'm an early 🐤** 
+**I'm a late 🐤** 
 
 ```text
 🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
@@ -58,14 +59,14 @@ const prince = {
 JavaScript               6 hrs 40 mins  █████████░░░░░░░░░░░░░░░░   39.01% 
 Python                   2 hrs 57 mins  ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
 PHP                      2 hrs 28 mins  ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
-css                 2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.89% 
+java                 2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.89% 
 c++                     1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   6.87%
 
 🔥 Editors: 
 vs code                 9 hrs 32 mins       ██████████████░░░░░░░░░░░   55.81% 
 PyCharm                  5 hrs 4 mins       ███████░░░░░░░░░░░░░░░░░░   29.71% 
-dev c++                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49%
-code blocks                 2 hrs 28 mins   ██░░░░░░░░░░░░░░░░░░░░░░   9.7%
+Intellij Idea                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49%
+dev c++                2 hrs 28 mins   ██░░░░░░░░░░░░░░░░░░░░░░   9.7%
 
 💻 Operating Systems: 
 Windows                  17 hrs 5 mins       █████████████████████████   100.0%
