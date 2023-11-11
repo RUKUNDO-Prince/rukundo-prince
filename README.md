@@ -30,7 +30,7 @@ const prince = {
         misc: ["Firebase", "Socket.IO", "sanity", "open-cv", "php", "SuiteApp"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing a game finder app",
+    currentProject: "I am developing a social media app called snapgram, somehow like instagram",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
