@@ -53,7 +53,7 @@ const prince = {
 📊 **This week I spent my time on** 
 
 ```text
-⌚︎ Timezone: Asia/Calcutta
+⌚︎ Timezone: Egypt/Cairo
 
 💬 Languages: 
 JavaScript               6 hrs 40 mins  █████████░░░░░░░░░░░░░░░░   39.01% 
