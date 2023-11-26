@@ -14,7 +14,7 @@
 const prince = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "blogging"],
+    askMeAbout: ["web dev", "tech", "mobile dev", "blogging"],
     technologies: {
         mobileApp: ["firebase"],
         frontEnd: {
