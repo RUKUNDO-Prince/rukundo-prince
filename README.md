@@ -15,7 +15,7 @@
 const prince = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "Java", "c/c++", "php"],
-    askMeAbout: ["web dev", "tech", "mobile dev", "blogging"],
+    askMeAbout: ["web dev", "tech", "mobile dev", "AI & ML", "blogging"],
     technologies: {
         mobileApp: ["firebase, react-native"],
         frontEnd: {
@@ -24,7 +24,7 @@ const prince = {
         },
         backEnd: {
             js: ["node", "express", "typescript"],
-            python: ["django"],
+            python: ["django", "fast-api"],
             java: ["springboot"]
         },
         databases: ["mongo", "MySql", "postgress"],
