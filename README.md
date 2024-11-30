@@ -28,7 +28,7 @@ const prince = {
             java: ["springboot"]
         },
         databases: ["mongo", "MySql", "postgress"],
-        misc: ["Firebase", "Socket.IO", "sanity", "open-cv", "php", "SuiteApp"]
+        misc: ["Firebase", "Socket.IO", "sanity", "open-cv", "php", "SuiteApp", "Appwrite"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentProject: "I am developing a social media app called snapgram, somehow like instagram",
