@@ -3,7 +3,6 @@
 <!-- <p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p> -->
 
-[![Linkedin: RUKUNDO Prince]https://www.linkedin.com/in/rukundo-prince-142539260/
 ![GitHub followers](https://img.shields.io/github/followers/rukundo-prince?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
