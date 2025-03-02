@@ -22,12 +22,12 @@ const prince = {
             css: ["material ui", "bootstrap", "tailwindcss", "shadcn", "chakra ui", "daisy ui", "scss"]
         },
         backEnd: {
-            js: ["node", "express", "typescript"],
-            python: ["django", "fast-api"],
-            java: ["springboot"]
+            js: ["nodejs", "express", "typescript"],
+            python: ["django", "fast-api", "streamlit"],
+            java: ["springboot", "jsp", "hibernate"]
         },
         databases: ["mongo", "MySql", "postgress"],
-        misc: ["Firebase", "Socket.IO", "sanity", "open-cv", "php", "SuiteApp", "Appwrite"]
+        misc: ["Firebase", "Socket.IO", "sanity", "open-cv", "php", "SuiteApp", "Appwrite", "sentry"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentProject: "I am developing a live collaboration application similar to google docs, it is called LiveDocs, used for realtime collaboration on files
