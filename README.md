@@ -27,7 +27,7 @@ const prince = {
             java: ["springboot", "jsp", "hibernate"]
         },
         databases: ["mongo", "MySql", "postgress"],
-        misc: ["Firebase", "Socket.IO", "sanity", "open-cv", "php", "SuiteApp", "Appwrite", "sentry"]
+        misc: ["Firebase", "Socket.IO", "sanity", "open-cv", "php", "SuiteApp", "Appwrite", "sentry", "clerk"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentProject: "I am developing a live collaboration application similar to google docs, it is called LiveDocs, used for realtime collaboration on files
