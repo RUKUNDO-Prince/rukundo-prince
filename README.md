@@ -30,7 +30,7 @@ const prince = {
         misc: ["Firebase", "Socket.IO", "sanity", "open-cv", "php", "SuiteApp", "Appwrite", "sentry", "clerk"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing a live collaboration application similar to google docs, it is called LiveDocs, used for realtime collaboration on files
+    currentProject: "I am developing a platform for RCA students to share and showcase their projects and promote collaboration
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
