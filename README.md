@@ -26,7 +26,7 @@ const prince = {
             python: ["django", "fast-api", "streamlit"],
             java: ["springboot", "jsp", "hibernate"]
         },
-        databases: ["mongo", "MySql", "postgress"],
+        databases: ["mongo db", "MySql", "postgress"],
         misc: ["Firebase", "Socket.IO", "sanity", "open-cv", "php", "SuiteApp", "Appwrite", "sentry", "clerk"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
