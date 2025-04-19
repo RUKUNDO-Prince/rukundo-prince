@@ -27,7 +27,7 @@ const prince = {
             java: ["springboot", "jsp", "hibernate"]
         },
         databases: ["mongo db", "MySql", "postgress"],
-        misc: ["Firebase", "Socket.IO", "sanity", "open-cv", "php", "SuiteApp", "Appwrite", "sentry", "clerk"]
+        misc: ["Firebase", "Socket.IO", "sanity", "open-cv", "php", "SuiteApp", "Appwrite", "sentry", "clerk", "upstash"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentProject: "I am developing a platform for RCA students to share and showcase their projects and promote collaboration
