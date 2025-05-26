@@ -23,7 +23,7 @@ const prince = {
         },
         backEnd: {
             js: ["nodejs", "express", "typescript"],
-            python: ["django", "fast-api", "streamlit"],
+            python: ["django", "fast-api", "streamlit", "open-cv"],
             java: ["springboot", "jsp", "hibernate"]
         },
         databases: ["mongodb", "MySql", "postgress"],
