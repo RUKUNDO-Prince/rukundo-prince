@@ -22,7 +22,7 @@ const prince = {
             css: ["material ui", "bootstrap", "tailwindcss", "shadcn", "chakra ui", "daisy ui", "scss"]
         },
         backEnd: {
-            js: ["nodejs", "express", "typescript"],
+            js: ["nodejs", "express"],
             python: ["django", "fast-api", "streamlit", "open-cv"],
             java: ["springboot", "jsp", "hibernate"]
         },
