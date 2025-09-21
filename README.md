@@ -20,11 +20,13 @@ const prince = {
         frontEnd: {
             js: ["Vue", "react", "three js", "next js", "angular"],
             css: ["material ui", "bootstrap", "tailwindcss", "shadcn", "chakra ui", "daisy ui", "scss"]
+            c#: ["blazor"]
         },
         backEnd: {
             js: ["nodejs", "express"],
             python: ["django", "fast-api", "streamlit", "open-cv"],
             java: ["springboot", "jsp", "hibernate"]
+            c#: [".net"]
         },
         databases: ["mongodb", "MySql", "postgress"],
         misc: ["Firebase", "sanity", "SuiteApp", "Appwrite", "sentry", "clerk", "upstash", "arcjet"]
