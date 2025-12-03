@@ -18,7 +18,7 @@ const prince = {
     technologies: {
         mobileApp: ["react-native", "swift", "kotlin", "flutter"],
         frontEnd: {
-            js: ["Vue", "react", "three js", "next js", "angular"],
+            js: ["Vue", "react js", "three js", "next js", "angular"],
             css: ["material ui", "bootstrap", "tailwindcss", "shadcn", "chakra ui", "daisy ui", "scss"]
             c#: ["blazor"]
         },
