@@ -16,7 +16,7 @@ const prince = {
     code: ["Javascript", "Typescript", "Python", "Java", "C/C++", "PHP", "C#"],
     askMeAbout: ["Web dev", "Tech", "Mobile dev", "Full stack", "AI & ML", "Devops", "AR & VR"],
     technologies: {
-        mobileApp: ["react-native", "swift", "kotlin", "flutter"],
+        mobileApp: ["React-native", "Swift", "Kotlin", "Flutter"],
         frontEnd: {
             js: ["Vue", "react js", "three js", "next js", "angular"],
             css: ["material ui", "bootstrap", "tailwindcss", "shadcn", "chakra ui", "daisy ui"]
