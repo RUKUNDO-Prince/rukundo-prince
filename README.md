@@ -13,7 +13,7 @@
 ```javascript
 const prince = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "c/c++", "php", "c#"],
+    code: ["Javascript", "Typescript", "Python", "Java", "C/C++", "PHP", "C#"],
     askMeAbout: ["web dev", "tech", "mobile dev", "fullstack", "AI & ML", "Devops", "AR & VR"],
     technologies: {
         mobileApp: ["react-native", "swift", "kotlin", "flutter"],
