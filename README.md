@@ -19,7 +19,7 @@ const prince = {
         mobileApp: ["React-native", "Swift", "Kotlin", "Flutter"],
         frontEnd: {
             js: ["Vue", "react js", "three js", "next js", "angular"],
-            css: ["material ui", "bootstrap", "tailwindcss", "shadcn", "chakra ui", "daisy ui"]
+            css: ["MUI", "Bootstrap", "Tailwindcss", "Shadcn", "Chakra UI", "Daisy UI"]
             c#: ["blazor"]
         },
         backEnd: {
