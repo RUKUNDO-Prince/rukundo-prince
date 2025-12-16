@@ -23,7 +23,7 @@ const prince = {
             c#: ["Blazor"]
         },
         backEnd: {
-            js: ["nodejs", "express"],
+            js: ["Node JS", "Express"],
             python: ["django", "fast-api", "streamlit", "open-cv"],
             java: ["springboot", "jsp", "hibernate"]
             c#: [".net"]
