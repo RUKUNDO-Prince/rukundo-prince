@@ -24,7 +24,7 @@ const prince = {
         },
         backEnd: {
             js: ["Node JS", "Express"],
-            python: ["django", "fast-api", "streamlit", "open-cv"],
+            python: ["Django", "Fast-API", "Streamlit", "Open-CV"],
             java: ["springboot", "jsp", "hibernate"]
             c#: [".net"]
         },
