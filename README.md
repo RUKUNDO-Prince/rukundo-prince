@@ -28,7 +28,7 @@ const prince = {
             java: ["Springboot", "JSP", "Hibernate"]
             c#: [".net"]
         },
-        databases: ["mongodb", "MySql", "postgress"],
+        databases: ["Mongo DB", "MySql", "PostgreSQL"],
         misc: ["Firebase", "Sanity", "SuiteApp", "Appwrite", "Sentry", "Clerk", "Upstash", "Arcjet"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
