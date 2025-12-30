@@ -29,7 +29,7 @@ const prince = {
             c#: [".net"],
         },
         databases: ["Mongo DB", "MySql", "PostgreSQL"],
-        misc: ["Firebase", "Sanity", "SuiteApp", "Appwrite", "Sentry", "Clerk", "Upstash", "Arcjet"]
+        misc: ["Firebase", "Sanity", "SuiteApp", "Appwrite", "Sentry", "Clerk", "Upstash", "Arcjet"],
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentProject: "I am developing a platform for students to share and showcase their projects and promote collaboration
