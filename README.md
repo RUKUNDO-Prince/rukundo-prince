@@ -20,7 +20,7 @@ const prince = {
         frontEnd: {
             js: ["Vue JS", "React JS", "Three JS", "Next JS"],
             css: ["MUI", "Bootstrap", "Tailwindcss", "Shadcn", "Chakra UI", "Daisy UI"],
-            c#: ["Blazor"]
+            c#: ["Blazor"],
         },
         backEnd: {
             js: ["Node JS", "Express", "Nest JS"],
