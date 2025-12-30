@@ -26,7 +26,7 @@ const prince = {
             js: ["Node JS", "Express", "Nest JS"],
             python: ["Django", "Fast-API", "Streamlit", "Open-CV"],
             java: ["Springboot", "JSP", "Hibernate"],
-            c#: [".net"]
+            c#: [".net"],
         },
         databases: ["Mongo DB", "MySql", "PostgreSQL"],
         misc: ["Firebase", "Sanity", "SuiteApp", "Appwrite", "Sentry", "Clerk", "Upstash", "Arcjet"]
