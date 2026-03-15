@@ -46,7 +46,7 @@ const prince = {
 **I'm a late 🐤** 
 
 ```text
-🌞 Morning    97 commits     ███████░░░░░░░░░░░░░░░░░░   33.51% 
+🌞 Morning    97 commits     ███████░░░░░░░░░░░░░░░░░░   33.52% 
 🌆 Daytime    89 commits     ██████░░░░░░░░░░░░░░░░░░░   26.34% 
 🌃 Evening    129 commits    █████████░░░░░░░░░░░░░░░░   35.46%
 🌙 Night      33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.15%
